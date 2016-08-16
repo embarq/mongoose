@@ -1,0 +1,254 @@
+{
+    "data": [
+        {
+            "title": "Sub-Ex",
+            "announcement": "1981-08-13",
+            "published": false
+        },
+        {
+            "title": "Rank",
+            "announcement": "1965-10-10",
+            "published": false
+        },
+        {
+            "title": "Quo Lux",
+            "announcement": "1972-12-16",
+            "published": false
+        },
+        {
+            "title": "Tres-Zap",
+            "announcement": "1963-02-08",
+            "published": false
+        },
+        {
+            "title": "Cardguard",
+            "announcement": "1961-05-17",
+            "published": true
+        },
+        {
+            "title": "Otcom",
+            "announcement": "1996-12-15",
+            "published": false
+        },
+        {
+            "title": "Tempsoft",
+            "announcement": "2001-06-09",
+            "published": true
+        },
+        {
+            "title": "Home Ing",
+            "announcement": "2007-08-11",
+            "published": true
+        },
+        {
+            "title": "Gembucket",
+            "announcement": "1972-04-18",
+            "published": false
+        },
+        {
+            "title": "Sonsing",
+            "announcement": "1978-03-16",
+            "published": false
+        },
+        {
+            "title": "Andalax",
+            "announcement": "2005-08-16",
+            "published": true
+        },
+        {
+            "title": "Cookley",
+            "announcement": "2003-08-22",
+            "published": true
+        },
+        {
+            "title": "Solarbreeze",
+            "announcement": "1988-10-11",
+            "published": false
+        },
+        {
+            "title": "Job",
+            "announcement": "1988-03-16",
+            "published": true
+        },
+        {
+            "title": "Gembucket",
+            "announcement": "1973-03-26",
+            "published": false
+        },
+        {
+            "title": "Tres-Zap",
+            "announcement": "1962-04-05",
+            "published": false
+        },
+        {
+            "title": "Zamit",
+            "announcement": "2016-03-03",
+            "published": true
+        },
+        {
+            "title": "Bytecard",
+            "announcement": "2004-11-03",
+            "published": true
+        },
+        {
+            "title": "Bamity",
+            "announcement": "2010-09-28",
+            "published": true
+        },
+        {
+            "title": "Regrant",
+            "announcement": "1962-10-12",
+            "published": false
+        },
+        {
+            "title": "Kanlam",
+            "announcement": "2003-08-31",
+            "published": false
+        },
+        {
+            "title": "Temp",
+            "announcement": "1986-12-06",
+            "published": true
+        },
+        {
+            "title": "Namfix",
+            "announcement": "2016-01-14",
+            "published": true
+        },
+        {
+            "title": "Veribet",
+            "announcement": "1986-03-30",
+            "published": false
+        },
+        {
+            "title": "Flexidy",
+            "announcement": "1998-12-21",
+            "published": false
+        },
+        {
+            "title": "Otcom",
+            "announcement": "1995-03-11",
+            "published": false
+        },
+        {
+            "title": "Regrant",
+            "announcement": "1969-01-15",
+            "published": true
+        },
+        {
+            "title": "Fixflex",
+            "announcement": "1995-12-29",
+            "published": true
+        },
+        {
+            "title": "Viva",
+            "announcement": "2012-06-24",
+            "published": false
+        },
+        {
+            "title": "Gembucket",
+            "announcement": "2000-02-25",
+            "published": false
+        },
+        {
+            "title": "Home Ing",
+            "announcement": "1990-05-21",
+            "published": false
+        },
+        {
+            "title": "Span",
+            "announcement": "2006-09-08",
+            "published": false
+        },
+        {
+            "title": "Ronstring",
+            "announcement": "1966-06-26",
+            "published": true
+        },
+        {
+            "title": "Asoka",
+            "announcement": "2011-04-11",
+            "published": false
+        },
+        {
+            "title": "Zaam-Dox",
+            "announcement": "1981-07-29",
+            "published": false
+        },
+        {
+            "title": "Voyatouch",
+            "announcement": "1974-04-10",
+            "published": false
+        },
+        {
+            "title": "Transcof",
+            "announcement": "1990-01-01",
+            "published": true
+        },
+        {
+            "title": "Bytecard",
+            "announcement": "2013-03-02",
+            "published": false
+        },
+        {
+            "title": "Cardify",
+            "announcement": "1992-08-16",
+            "published": false
+        },
+        {
+            "title": "Span",
+            "announcement": "1964-01-23",
+            "published": false
+        },
+        {
+            "title": "Opela",
+            "announcement": "1998-08-01",
+            "published": false
+        },
+        {
+            "title": "Job",
+            "announcement": "2010-09-30",
+            "published": true
+        },
+        {
+            "title": "Gembucket",
+            "announcement": "1976-10-29",
+            "published": false
+        },
+        {
+            "title": "Home Ing",
+            "announcement": "1973-02-26",
+            "published": true
+        },
+        {
+            "title": "Tin",
+            "announcement": "2002-06-28",
+            "published": false
+        },
+        {
+            "title": "Asoka",
+            "announcement": "2013-04-21",
+            "published": false
+        },
+        {
+            "title": "Y-find",
+            "announcement": "2015-06-08",
+            "published": false
+        },
+        {
+            "title": "Matsoft",
+            "announcement": "1992-03-12",
+            "published": true
+        },
+        {
+            "title": "Zamit",
+            "announcement": "2001-11-18",
+            "published": false
+        },
+        {
+            "title": "Gembucket",
+            "announcement": "2008-06-24",
+            "published": false
+        }
+    ]
+}
