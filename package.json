@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-tutorials",
+  "version": "1.0.0",
+  "description": "Mongoose tutorials",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embarq/mongoose.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "mongoose"
+  ],
+  "author": "embarq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/embarq/mongoose/issues"
+  },
+  "homepage": "https://github.com/embarq/mongoose#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  }
+}
